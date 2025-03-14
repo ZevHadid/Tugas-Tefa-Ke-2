@@ -12,7 +12,9 @@ go mod tidy
 Proyek ini menggunakan file .env untuk bekerja jadi disarankan untuk membuat file .env sendiri.
 
 ## Menjalankan Aplikasi
-`go run main.go`
+```
+go run main.go
+```
 
 ## Link URL
 `http://localhost:8080`
